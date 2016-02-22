@@ -1,1 +1,4 @@
 Ahojda master soubor
+
+
+Toto je zmena na novaMaster vetvi
