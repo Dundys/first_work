@@ -1,4 +1,5 @@
-složitý merge for now
+Toto je novy radek v nova vetev
+
 Hezky text
 
 Druhy radek pro druhy commit
