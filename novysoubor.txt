@@ -1,1 +1,3 @@
 Hezky text
+
+Druhy radek pro druhy commit
