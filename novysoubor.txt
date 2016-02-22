@@ -1,3 +1,4 @@
+složitý merge for now
 Hezky text
 
 Druhy radek pro druhy commit
