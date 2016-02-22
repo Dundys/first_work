@@ -1,0 +1,5 @@
+Hezky text
+
+Druhy radek pro druhy commit
+
+Změna pro diff
